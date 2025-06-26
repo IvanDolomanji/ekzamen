@@ -1,0 +1,7 @@
+D:\ekz\ConsoleApp32\bin\Debug\ConsoleApp32.exe.config
+D:\ekz\ConsoleApp32\bin\Debug\ConsoleApp32.exe
+D:\ekz\ConsoleApp32\bin\Debug\ConsoleApp32.pdb
+D:\ekz\ConsoleApp32\obj\Debug\ConsoleApp32.csproj.AssemblyReference.cache
+D:\ekz\ConsoleApp32\obj\Debug\ConsoleApp32.csproj.CoreCompileInputs.cache
+D:\ekz\ConsoleApp32\obj\Debug\ConsoleApp32.exe
+D:\ekz\ConsoleApp32\obj\Debug\ConsoleApp32.pdb
